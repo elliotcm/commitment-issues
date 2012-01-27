@@ -1,4 +1,4 @@
-# --1304--
+# --1305--
 
 count = 0
 while count < ARGV[0].to_i
